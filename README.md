@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sriramyeager&label=Profile%20views&color=0e75b6&style=flat" alt="sriramyeager" /> </p>
 
-- 🌱 I’m currently learning **Java Selenium, TestNG, Page Object Model, Page Factory, Extent Reports, Git, GitHub.**
+- 🌱 I’m currently learning **Backend Developer (Python, FastAPI) | SQL | API Development.**
 
 - 📫 How to reach me **sriramyeager@gmail.com**
 
