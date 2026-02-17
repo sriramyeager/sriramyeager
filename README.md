@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sriram R V</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
+- 🌱 I’m currently learning **Backend Developer (Python, FastAPI) | SQL | API Development**
+
 - 📫 How to reach me **sriramyeager@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
